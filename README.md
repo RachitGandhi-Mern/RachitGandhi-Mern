@@ -1,86 +1,105 @@
 <h1 align="center">Hi 👋, I'm Rachit Gandhi</h1>
-<h3 align="center">🚀 MERN Stack Developer | Frontend Enthusiast | JS Engine Explorer</h3>
+<h3 align="center">🚀 MERN Stack Developer | 🎨 Frontend Magician | 🧠 JavaScript Engine Explorer</h3>
 
 <p align="center">
+  <a href="mailto:rachitgandhi.py@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://linkedin.com/in/rachitgandhi" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://rachitgandhi.dev" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel" />
   </a>
-  <a href="mailto:rachitgandhi@example.com">
-    <img src="https://img.shields.io/badge/-Email-white?style=flat-square&logo=gmail" />
-  </a>
 </p>
 
----
-
-### 👨‍💻 About Me
-
-- 🔭 Currently building: **MindMaze** – A high-end animated quiz game  
-- 🌱 Learning: **Advanced JavaScript, React, Three.js, and GSAP**
-- ✍️ Writing tech posts on: `JavaScript Engines`, `DOM Mastery`, and `VS Code Hacks`
-- 👯 Collaborating on: Creative frontend and hackathon-level web apps
-- 💬 Ask me about: `JavaScript`, `React`, `DOM`, `GSAP`, `Web Animations`
-- ⚡ Fun Fact: I break code just to fix it better 😎
+<br />
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🧑‍💻 About Me
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+```javascript
+const Rachit = {
+  currently_building: "MindMaze – A quiz game with GSAP animation",
+  learning: ["Advanced JavaScript", "Three.js", "React.js", "GSAP"],
+  writing_about: ["JS Engines", "DOM Mastery", "Frontend Tips"],
+  interested_in: ["Hackathons", "Open Source", "Creative UIs"],
+  fun_fact: "Breaks code just to fix it better 😎"
+}
+```
 
 ---
 
-### 📈 GitHub Stats
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rachitgandhi&show_icons=true&theme=radical&border_radius=10" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachitgandhi&layout=compact&theme=radical&border_radius=10" height="165">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,express,mongodb,git,github,vscode" />
 </p>
 
 ---
 
-### 🔥 Highlights
+## 📈 GitHub Stats & Activity
 
-- 🎯 **JavaScript Mastery Plan**: 20 (+5) day journey from intermediate to elite  
-- 📚 Created complete Hinglish-format notes for DOM, Functions, Loops, and Git  
-- 🛠 Built advanced projects like:
-  - `MindMaze`: Hackathon-level animated quiz app
-  - `Socha`: Scroll-based storytelling website (GSAP + Three.js)
-  - `Spotify UI Clone`: Music player using Tailwind & JS
-
----
-
-### ✨ Fun Side Projects
-
-- 🐶 Meme Page: `Kutriya` – Cheeky Hindi humor with edgy tone  
-- 🎨 Creative dev playground: Exploring animation, scroll magic, and custom UIs
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rachitgandhi&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rachitgandhi&show_icons=true&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachitgandhi&layout=compact&theme=radical&hide_border=true" height="165" />
+</p>
 
 ---
 
-### 🧠 Currently Creating
+## 💼 Featured Projects
 
-- `🚀 JS Engine Series` (V8, JIT, Bytecode, Garbage Collection)  
-- `🎯 Hackathon Prep Guide`  
-- `📘 Notion-ready Mastery Notes in Hinglish`
+| Project | Description |
+|--------|-------------|
+| 🎮 **MindMaze** | Hackathon-level animated quiz game using DOM, OOP, GSAP |
+| 🌌 **Socha** | Scroll-based storytelling website with Three.js & creative GSAP animations |
+| 🎧 **Spotify UI Clone** | Custom music player built with TailwindCSS & Vanilla JS |
+| 🤖 **DOM Mastery Notes** | 10th-grade Hinglish-style notes with colorful explanations |
 
 ---
 
-> _"Code it. Break it. Learn it. Repeat."_ – Rachit Gandhi 💥
+## 🔥 Highlights
+
+- 🎯 Completed 20 (+5) Day **JavaScript Mastery Plan**
+- 📚 Created in-depth **Notion-ready Hinglish notes** (DOM, Functions, Loops, Git)
+- 🏆 Built a suite of advanced, animated, and UI-rich projects
+- 📢 Consistently sharing tips on JavaScript, Engines, and Tools
 
 ---
 
-Would you like me to:
-- Add **GIFs or dynamic widgets**?
-- Help you **set this up live** on your GitHub?
-- Convert this into a **scrollable portfolio website**?
+## ⚡ Currently Creating
 
-Let me know and I’ll help you level it up further!
+- 🚀 **JavaScript Engine Series** (V8, Bytecode, GC, Hidden Classes)
+- 🧩 **Hackathon Guide** – From idea to deployment
+- 📘 **Notion Mastery Notes** – Easy, colorful & Hinglish
+
+---
+
+## 🕹️ Fun Side Hustles
+
+- 🐶 **Meme Page – Kutriya**: Cheeky Hindi memes with a sharp bite  
+- 🎨 Playing with scroll magic, creative layouts & microinteractions  
+- 📺 Planning Dev Series: `Explain Like I'm 10` on JS topics
+
+---
+
+## 🧠 Quote I Code By
+
+> _"Code it. Break it. Learn it. Repeat."_  
+> — **Rachit Gandhi** 💥
+
+---
+
+## 🧩 Bonus Widgets (optional flair)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Frontend+Animation+Wizard;JavaScript+Engine+Explorer;Hackathon+Lover+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rachitgandhi&theme=dracula&no-frame=true&title=Stars,Followers,Commits,Repositories" />
+</p>
+
+---
