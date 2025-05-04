@@ -7,13 +7,13 @@
   <a href="mailto:rachitgandhi.py@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/rachitgandhi" target="_blank">
+  <a href="https://www.linkedin.com/in/rachit-gandhi-33223531a/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://rachitgandhi.dev" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://github.com/rachitgandhi" target="_blank">
+  <a href="https://github.com/RachitGandhi-Mern" target="_blank">
     <img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github" />
   </a>
 </div>
@@ -28,11 +28,11 @@
 const Rachit = {
   identity: {
     name: "Rachit Gandhi",
-    title: "Frontend Developer & MERN Specialist",
-    location: "Building the web, one component at a time",
+    title: "Frontend Developer & Mern Enthusiast ",
+    location: "Jaipur (Rajasthan)",
   },
   currently_building: "MindMaze – An immersive quiz experience with GSAP animations",
-  code: ["JavaScript", "TypeScript", "HTML", "CSS", "React", "Node.js"],
+  code: ["JavaScript", "TypeScript", "HTML", "CSS", "React", "Node.js" ],
   design_tools: ["Figma", "Adobe XD", "Tailwind CSS"],
   architecture: ["Single Page Applications", "Component Libraries", "REST APIs"],
   challenge: "Converting complex UI/UX designs into flawless interactive experiences",
@@ -119,7 +119,7 @@ const Rachit = {
 </table>
 
 <div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Proficiency%20Chart&align=center&lineCount=2&theme=github_dark&line1=gsap,GSAP,61dafb;jquery,jQuery,0769ad;bootstrap,Bootstrap,7952b3;figma,Figma,f24e1e;&line2=threejs,Three.js,ffffff;vercel,Vercel,000000;chartjs,Chart.js,ff6384;firebase,Firebase,ffca28;" alt="Tech Stack Cards" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Proficiency%20Chart&align=center&lineCount=2&theme=github_dark&line1=gsap,GSAP,61dafb;jquery,jQuery,0769ad;bootstrap,Bootstrap,7952b3;figma,Figma,f24e1e;&line2=threejs,Three.js,ffffff;vercel,Vercel,000000;chartjs,React.js,ff6384;firebase,Firebase,ffca28;" alt="Tech Stack Cards" />
 </div>
 
 ## 🔥 Current Initiatives & Expertise
