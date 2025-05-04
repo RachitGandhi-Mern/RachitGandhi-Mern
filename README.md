@@ -122,83 +122,6 @@ const Rachit = {
   <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Proficiency%20Chart&align=center&lineCount=2&theme=github_dark&line1=gsap,GSAP,61dafb;jquery,jQuery,0769ad;bootstrap,Bootstrap,7952b3;figma,Figma,f24e1e;&line2=threejs,Three.js,ffffff;vercel,Vercel,000000;chartjs,Chart.js,ff6384;firebase,Firebase,ffca28;" alt="Tech Stack Cards" />
 </div>
 
-## 🏆 Signature Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🧠 MindMaze</h3>
-      <div align="center">
-        <a href="https://github.com/rachitgandhi/mind-maze" target="_blank">
-          <img src="https://raw.githubusercontent.com/gist/TheYuriG/824eb6a677e9b1d8f5255af2e483aebc/raw/61b3232946170d9688d51ee323fd4961e5d338ca/mindmaze_preview.svg" width="100%" alt="MindMaze Preview"/>
-        </a>
-        <p>
-          <a href="https://github.com/rachitgandhi/mind-maze" target="_blank">
-            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
-          </a>
-          <a href="https://mind-maze.vercel.app" target="_blank">
-            <img src="https://img.shields.io/badge/DEMO-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>JavaScript, GSAP, DOM, OOP</strong> - Innovative quiz game with mind-bending animations and progressive difficulty scaling</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🌌 Socha</h3>
-      <div align="center">
-        <a href="https://github.com/rachitgandhi/socha" target="_blank">
-          <img src="https://raw.githubusercontent.com/gist/TheYuriG/824eb6a677e9b1d8f5255af2e483aebc/raw/61b3232946170d9688d51ee323fd4961e5d338ca/socha_preview.svg" width="100%" alt="Socha Preview"/>
-        </a>
-        <p>
-          <a href="https://github.com/rachitgandhi/socha" target="_blank">
-            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
-          </a>
-          <a href="https://socha.vercel.app" target="_blank">
-            <img src="https://img.shields.io/badge/DEMO-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>Three.js, GSAP, React</strong> - Immersive scroll-based storytelling platform with 3D elements and parallel narrative structure</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎧 Spotify UI Clone</h3>
-      <div align="center">
-        <a href="https://github.com/rachitgandhi/spotify-clone" target="_blank">
-          <img src="https://raw.githubusercontent.com/gist/TheYuriG/824eb6a677e9b1d8f5255af2e483aebc/raw/61b3232946170d9688d51ee323fd4961e5d338ca/spotify_preview.svg" width="100%" alt="Spotify Clone Preview"/>
-        </a>
-        <p>
-          <a href="https://github.com/rachitgandhi/spotify-clone" target="_blank">
-            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
-          </a>
-          <a href="https://spotify-clone-rachit.vercel.app" target="_blank">
-            <img src="https://img.shields.io/badge/DEMO-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>TailwindCSS, JavaScript, API Integration</strong> - Fully responsive music streaming interface with dynamic theming and audio controls</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">📚 DOM Mastery Notes</h3>
-      <div align="center">
-        <a href="https://github.com/rachitgandhi/dom-mastery" target="_blank">
-          <img src="https://raw.githubusercontent.com/gist/TheYuriG/824eb6a677e9b1d8f5255af2e483aebc/raw/61b3232946170d9688d51ee323fd4961e5d338ca/dom_notes_preview.svg" width="100%" alt="DOM Notes Preview"/>
-        </a>
-        <p>
-          <a href="https://github.com/rachitgandhi/dom-mastery" target="_blank">
-            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
-          </a>
-          <a href="https://dom-mastery.vercel.app" target="_blank">
-            <img src="https://img.shields.io/badge/NOTES-00C7B7?style=for-the-badge&logo=notion&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>Notion, Markdown, JavaScript</strong> - Comprehensive educational resource with interactive examples and simplified Hinglish explanations</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
 ## 🔥 Current Initiatives & Expertise
 
 <div>
@@ -263,11 +186,8 @@ const Rachit = {
   <a href="mailto:rachitgandhi.py@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/rachitgandhi" target="_blank">
+  <a href="https://www.linkedin.com/in/rachit-gandhi-33223531a/" target="_blank">
     <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/rachitgandhi_dev" target="_blank">
-    <img src="https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
 
