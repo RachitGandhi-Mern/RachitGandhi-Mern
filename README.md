@@ -62,8 +62,8 @@ const Rachit = {
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
-      <br>TypeScript
+      <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="48" height="48" />
+      <br>Figma
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
@@ -74,11 +74,11 @@ const Rachit = {
       <br>Redux
     </td>
     <td align="center" width="96">
-      <img src="[https://skillicons.dev/icons?i=nodejs](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)" alt="Node.js" width="48" height="48" />
-      <br>Node.js
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJs" width="48" height="48" />
+      <br>NodeJs
     </td>
     <td align="center" width="96">
-      <img src="[ https://skillicons.dev/icons?i=github](https://www.vectorlogo.zone/logos/github/github-icon.svg)" alt="GitHub" width="48" height="48" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
       <br>GitHub
     </td>
     <td align="center" width="96">
