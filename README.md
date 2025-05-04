@@ -74,11 +74,11 @@ const Rachit = {
       <br>Redux
     </td>
     <td align="center" width="96">
-      <img src=" https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
+      <img src="[https://skillicons.dev/icons?i=nodejs](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)" alt="Node.js" width="48" height="48" />
       <br>Node.js
     </td>
     <td align="center" width="96">
-      <img src=" https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" />
+      <img src="[ https://skillicons.dev/icons?i=github](https://www.vectorlogo.zone/logos/github/github-icon.svg)" alt="GitHub" width="48" height="48" />
       <br>GitHub
     </td>
     <td align="center" width="96">
