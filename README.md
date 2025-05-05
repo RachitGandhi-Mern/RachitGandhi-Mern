@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30,20&height=250&section=header&text=Rachit%20Gandhi&fontSize=80&fontAlignY=40&desc=Frontend%20Architect%20%7C%20MERN%20Specialist%20%7C%20UI/UX%20Visionary&descSize=20&descAlignY=60&animation=fadeIn)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30,20&height=250&section=header&text=Rachit%20Gandhi&fontSize=80&fontAlignY=40&desc=Frontend%20Architect%20%7C%20MERN%20Enthusiast%20%7C%20UI/UX%20Visionary&descSize=20&descAlignY=60&animation=fadeIn)
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Frontend+Animation+Wizard;JavaScript+Engine+Explorer;Turning+Code+into+Art+%E2%9C%A8)](https://git.io/typing-svg)
   
@@ -78,7 +78,7 @@ const Rachit = {
       <br>NodeJs
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" />
       <br>GitHub
     </td>
     <td align="center" width="96">
@@ -112,8 +112,8 @@ const Rachit = {
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="48" height="48" />
-      <br>VSCode
+      <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="48" height="48" />
+      <br>Vite
     </td>
   </tr>
 </table>
