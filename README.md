@@ -47,9 +47,9 @@ const Rachit = {
 
 <div align="center">
   
-  ## 🎭 Frontend Mastery Journey
+  ##  Contribution Graph
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rachitgandhi&bg_color=1a1b27&color=628fdb&line=38bcad&point=be4dcc&area=true&hide_border=true" width="100%">
+  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=RachitGandhi-Mern&bg_color=1a1b27&color=628fdb&line=38bcad&point=be4dcc&area=true&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=RachitGandhi-Mern&bg_color=000000&color=F8D866&line=6366F1&point=F59E0B&area=true&hide_border=true&custom_title=🚀%20Frontend%20Wizardry%20Journey%20💫&title_color=FFFFFF&area_color=FF00FF15&radius=10&height=320)" width="100%">
 
 </div>
 
