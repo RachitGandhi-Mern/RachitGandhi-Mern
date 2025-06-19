@@ -24,48 +24,52 @@
 
 
 
+ <h2 align="center">
+  <span style="font-family: 'Halvetica', sans-serif; color:#00BFA6; font-weight: 800;">
+    🧬 Code Chronicles
+  </span>
+</h2>
 
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=400&lines=Recipe+Hub+%F0%9F%8D%B3;Open+Source+Hub+%F0%9F%8C%9F;Check+out+my+projects!)](https://git.io/typing-svg)
 
+</div>
 
-  ## 🚀 Featured Projects Showcase
+<div align="center">
+  
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,11,20&height=120&section=header&text=Recipe%20Hub&fontSize=30&fontColor=fff&animation=fadeIn&desc=Food%20Recipe%20Platform&descSize=12&descAlignY=75" />
+        <br />
+        <a href="https://rachit-gandhi-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Live Demo-000000?style=for-the-badge&logo=vercel&logoColor=purple" />
+  </a>
+        <br />
+        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/-Redux-61DAFB?style=flat&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/-TailwindCss-1572B6?style=flat&logo=Tailwind" />
+        <img src="https://img.shields.io/badge/-Api Config-47A248?style=flat&logo=Api&logoColor=white" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=2,3,30&height=120&section=header&text=Open%20Source%20Hub&fontSize=26&fontColor=fff&animation=fadeIn&desc=Developer%20Community&descSize=12&descAlignY=75" />
+        <br />
+        <a href="https://open-source-hub-rho.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Live Demo-000000?style=for-the-badge&logo=vercel&logoColor=purple" />
+        </a>
+        <br />
+        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/-Redux-61DAFB?style=flat&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/-TailwindCss-1572B6?style=flat&logo=Tailwind" />
+        <img src="https://img.shields.io/badge/-Api Config-47A248?style=flat&logo=Api&logoColor=white" />
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+      </td>
+    </tr>
+  </table>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFE0&center=true&vCenter=true&width=700&lines=🔥+My+Best+Projects+%7C+Fully+Responsive+%7C+Deployed+%7C+Animated+UI" alt="Typing SVG" />
-</p>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://open-source-hub-rho.vercel.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/RachitGandhi-Mern/assets/main/previews/open-source-hub.gif" width="90%" alt="Open Source Hub Preview" style="border-radius: 12px;" />
-      </a>
-      <br />
-      <b style="font-size: 20px;">🧠 Open Source Hub</b>
-      <br />
-      <img src="https://img.shields.io/badge/Live-Demo-000000?style=for-the-badge&logo=vercel&labelColor=111111&logoColor=white&color=00FFAB" alt="Live Demo Badge" />
-      <br />
-      <sub><i>Discover and explore GitHub projects with blazing-fast search</i></sub>
-    </td>
-
-    <td align="center" width="50%">
-      <a href="https://recipe-project-kohl.vercel.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/RachitGandhi-Mern/assets/main/previews/recipe-hub.gif" width="90%" alt="Recipe Hub Preview" style="border-radius: 12px;" />
-      </a>
-      <br />
-      <b style="font-size: 20px;">🍽️ Recipe Hub</b>
-      <br />
-      <img src="https://img.shields.io/badge/Live-Demo-000000?style=for-the-badge&logo=vercel&labelColor=111111&logoColor=white&color=FFB86B" alt="Live Demo Badge" />
-      <br />
-      <sub><i>Search and filter your favorite recipes with modern UI</i></sub>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-</p>
-
-
+</div>
 
 
 
