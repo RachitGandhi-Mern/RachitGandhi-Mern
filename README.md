@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/rachit-gandhi-33223531a/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://rachit-gandhi-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/RachitGandhi-Mern" target="_blank">
@@ -21,6 +21,66 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rachitgandhi&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
+
+
+
+
+
+
+
+
+
+## 🚀 Featured Projects Showcase
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=🚀+My+Live+Projects+%7C+Built+with+Love+%26+Logic;" />
+</p>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github.com/RachitGandhi-Mern/open-source-hub/assets/preview.gif" width="100%" alt="Open Source Hub Preview"/>
+      <br />
+      <b>🧠 Open Source Hub</b>  
+      <br />
+      <a href="https://open-source-hub-rho.vercel.app/" target="_blank">
+        🌐 Live Demo
+      </a> |
+      <a href="https://github.com/RachitGandhi-Mern/open-source-hub" target="_blank">
+        💻 Source Code
+      </a>
+      <br />
+      <sub>Discover & showcase open-source projects using GitHub API</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/RachitGandhi-Mern/recipe-hub/assets/preview.gif" width="100%" alt="Recipe Hub Preview"/>
+      <br />
+      <b>🍽️ Recipe Hub</b>  
+      <br />
+      <a href="https://recipe-project-kohl.vercel.app/" target="_blank">
+        🌐 Live Demo
+      </a> |
+      <a href="https://github.com/RachitGandhi-Mern/recipe-hub" target="_blank">
+        💻 Source Code
+      </a>
+      <br />
+      <sub>Search, explore & view recipes with filterable UI</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1"/>
+</p>
+
+
+
+
+
+
+
+
+
 
 ## 🧬 The Developer's DNA
 
