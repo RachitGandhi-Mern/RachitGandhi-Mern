@@ -43,7 +43,7 @@
       <td align="center" width="50%">
         <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,11,20&height=120&section=header&text=Recipe%20Hub&fontSize=30&fontColor=fff&animation=fadeIn&desc=Food%20Recipe%20Platform&descSize=12&descAlignY=75" />
         <br />
-        <a href="https://rachit-gandhi-portfolio.vercel.app/" target="_blank">
+        <a href="https://recipe-project-kohl.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Live Demo-000000?style=for-the-badge&logo=vercel&logoColor=purple" />
   </a>
         <br />
