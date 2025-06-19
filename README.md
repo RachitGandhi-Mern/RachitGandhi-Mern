@@ -27,56 +27,43 @@
 
 
 
-
-
-
-## 🚀 Featured Projects Showcase
+  ## 🚀 Featured Projects Showcase
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=🚀+My+Live+Projects+%7C+Built+with+Love+%26+Logic;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFE0&center=true&vCenter=true&width=700&lines=🔥+My+Best+Projects+%7C+Fully+Responsive+%7C+Deployed+%7C+Animated+UI" alt="Typing SVG" />
 </p>
 
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github.com/RachitGandhi-Mern/open-source-hub/assets/preview.gif" width="100%" alt="Open Source Hub Preview"/>
-      <br />
-      <b>🧠 Open Source Hub</b>  
-      <br />
       <a href="https://open-source-hub-rho.vercel.app/" target="_blank">
-        🌐 Live Demo
-      </a> |
-      <a href="https://github.com/RachitGandhi-Mern/open-source-hub" target="_blank">
-        💻 Source Code
+        <img src="https://raw.githubusercontent.com/RachitGandhi-Mern/assets/main/previews/open-source-hub.gif" width="90%" alt="Open Source Hub Preview" style="border-radius: 12px;" />
       </a>
       <br />
-      <sub>Discover & showcase open-source projects using GitHub API</sub>
+      <b style="font-size: 20px;">🧠 Open Source Hub</b>
+      <br />
+      <img src="https://img.shields.io/badge/Live-Demo-000000?style=for-the-badge&logo=vercel&labelColor=111111&logoColor=white&color=00FFAB" alt="Live Demo Badge" />
+      <br />
+      <sub><i>Discover and explore GitHub projects with blazing-fast search</i></sub>
     </td>
+
     <td align="center" width="50%">
-      <img src="https://github.com/RachitGandhi-Mern/recipe-hub/assets/preview.gif" width="100%" alt="Recipe Hub Preview"/>
-      <br />
-      <b>🍽️ Recipe Hub</b>  
-      <br />
       <a href="https://recipe-project-kohl.vercel.app/" target="_blank">
-        🌐 Live Demo
-      </a> |
-      <a href="https://github.com/RachitGandhi-Mern/recipe-hub" target="_blank">
-        💻 Source Code
+        <img src="https://raw.githubusercontent.com/RachitGandhi-Mern/assets/main/previews/recipe-hub.gif" width="90%" alt="Recipe Hub Preview" style="border-radius: 12px;" />
       </a>
       <br />
-      <sub>Search, explore & view recipes with filterable UI</sub>
+      <b style="font-size: 20px;">🍽️ Recipe Hub</b>
+      <br />
+      <img src="https://img.shields.io/badge/Live-Demo-000000?style=for-the-badge&logo=vercel&labelColor=111111&logoColor=white&color=FFB86B" alt="Live Demo Badge" />
+      <br />
+      <sub><i>Search and filter your favorite recipes with modern UI</i></sub>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 </p>
-
-
-
-
-
 
 
 
