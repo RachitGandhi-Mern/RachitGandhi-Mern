@@ -32,7 +32,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=400&lines=Recipe+Hub+%F0%9F%8D%B3;Open+Source+Hub+%F0%9F%8C%9F;Check+out+my+projects!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=time+new+roman&size=30&duration=2000&pause=500&color=F70000&center=true&vCenter=true&width=400&lines=Recipe+Hub+%F0%9F%8D%B3;Open+Source+Hub+%F0%9F%8C%9F;Check+Out+My+Projects!)](https://git.io/typing-svg)
 
 </div>
 
@@ -175,7 +175,7 @@ const Rachit = {
 ## 🔥 Current Initiatives & Expertise
 
 <div>
-  <img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+  <img align="right"  alt="Coding" width="350"  src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
   
   ### 🚀 Featured Content Series
   
