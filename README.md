@@ -66,7 +66,7 @@
         <img src="https://img.shields.io/badge/-Api Config-47A248?style=flat&logo=Api&logoColor=white" />
         <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
       </td>
-        <br>
+        <br />
    <td align="center" width="50%">
         <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=2,3,30&height=120&section=header&text=Monster%20Energy%20drink&fontSize=26&fontColor=fff&animation=fadeIn&desc=Developer%20Community&descSize=12&descAlignY=75" />
         <br />
