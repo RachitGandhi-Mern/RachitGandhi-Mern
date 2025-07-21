@@ -66,6 +66,21 @@
         <img src="https://img.shields.io/badge/-Api Config-47A248?style=flat&logo=Api&logoColor=white" />
         <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
       </td>
+<td align="center" width="50%">
+        <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=2,3,30&height=120&section=header&text=Monster%20Energy%20drink&fontSize=26&fontColor=fff&animation=fadeIn&desc=Developer%20Community&descSize=12&descAlignY=75" />
+        <br />
+        <a href="https://monsterenergy.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/-Live Demo-000000?style=for-the-badge&logo=vercel&logoColor=purple" />
+        </a>
+        <br />
+        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/-Nodejs-61DAFB?style=flat&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/-express-61DAFB?style=flat&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/-TailwindCss-1572B6?style=flat&logo=Tailwind" />
+        <img src="https://img.shields.io/badge/-Api Config-47A248?style=flat&logo=Api&logoColor=white" />
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+      </td>
+
     </tr>
   </table>
 
