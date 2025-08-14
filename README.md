@@ -32,7 +32,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=time+new+roman&size=30&duration=2000&pause=500&color=F70000&center=true&vCenter=true&width=400&lines=Recipe+Hub+%F0%9F%8D%B3;Open+Source+Hub+%F0%9F%8C%9F;Check+Out+My+Projects!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=time+new+roman&size=30&duration=2000&pause=500&color=F70000&center=true&vCenter=true&width=400&lines=Recipe+Hub+%F0%9F%8C%9F;Open+Source+Hub+%F0%9F%8C%9F;Monster+Energy+%F0%9F%8C%9F;Check+Out+My+Projects!)](https://git.io/typing-svg)
 
 </div>
 
