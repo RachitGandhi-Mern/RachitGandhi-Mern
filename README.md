@@ -40,8 +40,8 @@
   <table>
     <tr>
       <!-- Recipe Hub -->
-      <td align="center" width="33%">
-        <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,11,20&height=120&section=header&text=Recipe%20Hub&fontSize=30&fontColor=fff&animation=fadeIn&desc=Food%20Recipe%20Platform&descSize=12&descAlignY=75" />
+      <td align="center" width="25%">
+        <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,11,20&height=120&section=header&text=Recipe%20Hub&fontSize=50&fontColor=000&animation=fadeIn&desc=Food%20Recipe%20Platform&descSize=12&descAlignY=75" />
         <br />
         <a href="https://recipe-project-kohl.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/-Live Demo-000000?style=for-the-badge&logo=vercel&logoColor=purple" />
@@ -54,8 +54,8 @@
         <img src="https://img.shields.io/badge/-API%20Config-47A248?style=flat&logo=swagger&logoColor=white" />
       </td>
       <!-- Open Source Hub -->
-      <td align="center" width="33%">
-        <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=2,3,30&height=120&section=header&text=Open%20Source%20Hub&fontSize=26&fontColor=fff&animation=fadeIn&desc=Developer%20Community&descSize=12&descAlignY=75" />
+      <td align="center" width="25%">
+        <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=2,3,30&height=120&section=header&text=Open%20Source%20Hub&fontSize=50&fontColor=000&animation=fadeIn&desc=Developer%20Community&descSize=12&descAlignY=75" />
         <br />
         <a href="https://open-source-hub-rho.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/-Live Demo-000000?style=for-the-badge&logo=vercel&logoColor=purple" />
@@ -68,10 +68,24 @@
         <img src="https://img.shields.io/badge/-API%20Config-47A248?style=flat&logo=swagger&logoColor=white" />
       </td>
       <!-- Monster Energy Drink -->
-      <td align="center" width="33%">
-        <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=2,3,30&height=120&section=header&text=Monster%20Energy%20Drink&fontSize=26&fontColor=fff&animation=fadeIn&desc=Developer%20Community&descSize=12&descAlignY=75" />
+      <td align="center" width="25%">
+        <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=2,3,30&height=120&section=header&text=Monster%20Energy%20Drink&fontSize=50&fontColor=000&animation=fadeIn&desc=Developer%20Community&descSize=12&descAlignY=75" />
         <br />
         <a href="https://monsterenergy.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/-Live Demo-000000?style=for-the-badge&logo=vercel&logoColor=purple" />
+        </a>
+        <br />
+        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/-API%20Config-47A248?style=flat&logo=swagger&logoColor=white" />
+      </td>
+<!-- DevTrail -->
+<td align="center" width="25%">
+        <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=2,3,30&height=120&section=header&text=Dev%20Trail&fontSize=50&fontColor=000&animation=fadeIn&desc=Developer%20Community&descSize=12&descAlignY=75" />
+        <br />
+        <a href="https://dev-trail-chi.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/-Live Demo-000000?style=for-the-badge&logo=vercel&logoColor=purple" />
         </a>
         <br />
