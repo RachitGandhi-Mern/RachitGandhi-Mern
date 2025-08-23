@@ -101,6 +101,35 @@
 
 
 
+<div align="center">
+  <table>
+    <tr>
+      <!-- Recipe Hub -->
+      <td align="center" width="100%">
+        <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,11,20&height=100&section=header&text=Legal%20Lens&fontSize=40&fontColor=000&animation=fadeIn&desc=Legal%20documents%20decoded%20instantly&descSize=12&descAlignY=75" />
+        <br />
+        <a href="https://legalparser.vercel.app//" target="_blank">
+          <img src="https://img.shields.io/badge/-Live Demo-000000?style=for-the-badge&logo=vercel&logoColor=purple" />
+        </a>
+        <br />
+        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/-API%20Config-47A248?style=flat&logo=swagger&logoColor=white" />
+      </td>
+      
+  </table>
+</div>
+
+
+
+
+
+
+
+
+
 ## 🧬 The Developer's DNA
 
 ```javascript
